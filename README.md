@@ -3,6 +3,8 @@ Treehouse-Show-Links
 
 Resource links from http://teamtreehouse.com/library/the-treehouse-show
 
+For my own reference. Will update as I am able. All work is the property of its owner. I have no association with the treehouse show... and I only scraped their site a little bit... promise :)
+
 
 ## [Episode 103: Human JavaScript, Interactive Graphs, Sidecomments](http://www.teamtreehouse.com/library/the-treehouse-show/episode-103-human-javascript-interactive-graphs-sidecomments)
 
