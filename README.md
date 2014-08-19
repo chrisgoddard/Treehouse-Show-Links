@@ -5,6 +5,18 @@ Resource links from http://teamtreehouse.com/library/the-treehouse-show
 
 For my own reference. Will update as I am able. All work is the property of its owner. I have no association with the treehouse show... and I only scraped their site a little bit... promise :)
 
+## [Episode 104: Pixels, Web Components, The Hamburger Menu](http://teamtreehouse.com/library/the-treehouse-show/episode-104-pixels-web-components-the-hamburger-menu)
+
+http://aerotwist.com/blog/pixels-are-expensive/
+
+http://developer.telerik.com/featured/web-components-arent-ready-production-yet/
+
+https://www.evernote.com/shard/s207/sh/022f2237-4b4f-4096-87f2-053acd228c2d/ede2672bc3f39a1b0232f84e01ca0a83
+
+[Papa Parse - Javascript CSV Parser](http://papaparse.com/)
+
+http://molly.is/saying/no-more-put-a-skirt-on-it/
+
 
 ## [Episode 103: Human JavaScript, Interactive Graphs, Sidecomments](http://www.teamtreehouse.com/library/the-treehouse-show/episode-103-human-javascript-interactive-graphs-sidecomments)
 
