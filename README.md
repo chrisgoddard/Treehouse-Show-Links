@@ -5,6 +5,32 @@ Resource links from http://teamtreehouse.com/library/the-treehouse-show
 
 For my own reference. Will update as I am able. All work is the property of its owner. I have no association with the treehouse show... and I only scraped their site a little bit... promise :)
 
+## [Episode 106: Responsive Logos, Waves, Pagekit](http://teamtreehouse.com/library/the-treehouse-show/episode-106-responsive-logos-waves-pagekit)
+
+[Responsive Logos](http://responsivelogos.co.uk/)
+
+[Waves](http://publicis-indonesia.github.io/Waves/)
+
+[Pagekit](http://pagekit.com/)
+
+[DevDocs](http://devdocs.io/)
+
+[Dev.Opera — Responsive Images: Use Cases and Documented Code Snippets to Get You Started](http://dev.opera.com/articles/responsive-images/)
+
+
+## [Episode 105: SVG Backgrounds, Breach, FastShell](http://teamtreehouse.com/library/the-treehouse-show/episode-105-svg-backgrounds-breach-fastshell)
+
+[PatternBolt](http://buseca.github.io/patternbolt/)
+
+[DomFlags - devtools extension to create keyboard shortcuts to DOM element](http://domflags.com/)
+
+[Breach - A browser for the HTML5 era](http://breach.cc/)
+
+[FastShell: HTML5, Sass and JavaScript boilerplate for Gulp, by @_Karam](http://hosseinkarami.github.io/fastshell/)
+
+[The "Just In Time" Theory of User Behavior](http://blog.codinghorror.com/the-just-in-time-theory/)
+
+
 ## [Episode 104: Pixels, Web Components, The Hamburger Menu](http://teamtreehouse.com/library/the-treehouse-show/episode-104-pixels-web-components-the-hamburger-menu)
 
 http://aerotwist.com/blog/pixels-are-expensive/
