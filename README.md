@@ -5,6 +5,16 @@ Resource links from http://teamtreehouse.com/library/the-treehouse-show
 
 For my own reference. Will update as I am able. All work is the property of its owner. I have no association with the treehouse show... and I only scraped their site a little bit... promise :)
 
+## [Episode 107: Reading jQuery, HTML 5 Captions, Flexbox](http://teamtreehouse.com/library/the-treehouse-show/episode-107-reading-jquery-html-5-captions-flexbox)
+
+[18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colorado](http://quickleft.com/blog/18-surprises-from-reading-jquery-s-source-code)
+
+[Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
+
+[Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback — Osvaldas Valutis](http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback)
+
+[Please JS](http://www.checkman.io/please/)
+
 ## [Episode 106: Responsive Logos, Waves, Pagekit](http://teamtreehouse.com/library/the-treehouse-show/episode-106-responsive-logos-waves-pagekit)
 
 [Responsive Logos](http://responsivelogos.co.uk/)
