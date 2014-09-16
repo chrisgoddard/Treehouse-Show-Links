@@ -5,6 +5,19 @@ Resource links from http://teamtreehouse.com/library/the-treehouse-show
 
 For my own reference. Will update as I am able. All work is the property of its owner. I have no association with the treehouse show... and I only scraped their site a little bit... promise :)
 
+## [Episode 108: Practical Typography, Date Pickers, Form Builders](http://teamtreehouse.com/library/the-treehouse-show/episode-108-practical-typography-date-pickers-form-builders)
+
+[Butterick’s Practical Typography](http://practicaltypography.com/)
+
+[Shoelace - Visual Bootstrap 3 Grid Builder](http://shoelace.io/)
+
+[Creating distraction-free reading experiences — azumbrunnen](http://azumbrunnen.me/blog/creating-distraction-free-reading-experiences/)
+
+[Rome](http://bevacqua.github.io/rome/)
+
+[Pure CSS One Div Weather Animated Icons - CodePen](http://codepen.io/fbrz/full/iqtlk)
+
+
 ## [Episode 107: Reading jQuery, HTML 5 Captions, Flexbox](http://teamtreehouse.com/library/the-treehouse-show/episode-107-reading-jquery-html-5-captions-flexbox)
 
 [18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colorado](http://quickleft.com/blog/18-surprises-from-reading-jquery-s-source-code)
