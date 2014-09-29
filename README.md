@@ -5,6 +5,19 @@ Resource links from http://teamtreehouse.com/library/the-treehouse-show
 
 For my own reference. Will update as I am able. All work is the property of its owner. I have no association with the treehouse show... and I only scraped their site a little bit... promise :)
 
+## [Episode 109: CSS Triggers, Fireshell, Responsive Design](http://teamtreehouse.com/library/the-treehouse-show/episode-109-css-triggers-fireshell-responsive-design) 
+
+[The Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-specification/)
+
+[CSS Triggers...](http://csstriggers.com/)
+
+[FireShell: HTML5, Sass and JavaScript boilerplate for Grunt, by @toddmotto](http://getfireshell.com/)
+
+[How we make RWD sites load fast as heck | Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/performance-rwd.html)
+
+[way.js](http://gwendall.github.io/way/)
+
+
 ## [Episode 108: Practical Typography, Date Pickers, Form Builders](http://teamtreehouse.com/library/the-treehouse-show/episode-108-practical-typography-date-pickers-form-builders)
 
 [Butterick’s Practical Typography](http://practicaltypography.com/)
