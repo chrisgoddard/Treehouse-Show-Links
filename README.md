@@ -5,6 +5,30 @@ Resource links from http://teamtreehouse.com/library/the-treehouse-show
 
 For my own reference. Will update as I am able. All work is the property of its owner. I have no association with the treehouse show... and I only scraped their site a little bit... promise :)
 
+## [Episode 111: DPI, Responsive Charts, Media Queries](http://teamtreehouse.com/library/the-treehouse-show/episode-111-dpi-responsive-charts-media-queries)
+
+[Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/home)
+
+[Chartist - Simple responsive charts](http://gionkunz.github.io/chartist-js/)
+
+[7 Habits of Highly Effective Media Queries | Brad Frost Web](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/)
+[Victor.js - 2D Vectors for JavaScript](http://victorjs.org/)
+
+[Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
+
+[Episode 110: Chrome Dev Tools, heatmap.js, Device Mockups](http://teamtreehouse.com/library/the-treehouse-show/episode-110-chrome-dev-tools-heatmapjs-device-mockups)
+
+[Tell Chrome Developer Tools to use a dark theme - howchoo](http://howchoo.com/g/tell-chrome-developer-tools-to-use-a-dark-theme)
+
+[heatmap.js | Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
+
+[HTML5 device mockups](http://github.com/pixelsign/html5-device-mockups)
+
+[Comprehensive Beginner's Guide to AngularJS - AntJanus](http://antjanus.com/blog/web-development-tutorials/front-end-development/comprehensive-beginner-guide-angularjs/)
+
+[Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Author and responsive web developer Ben Frain](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
+
+
 ## [Episode 109: CSS Triggers, Fireshell, Responsive Design](http://teamtreehouse.com/library/the-treehouse-show/episode-109-css-triggers-fireshell-responsive-design) 
 
 [The Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-specification/)
