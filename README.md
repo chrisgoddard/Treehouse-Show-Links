@@ -48,9 +48,13 @@ For my own reference. Will update as I am able. All work is the property of its 
 ##[Episode 112: Icons, Responsive Images, Timesheets](http://teamtreehouse.com/library/the-treehouse-show/episode-112-icons-responsive-images-timesheets)
 
 [Favicons, Touch Icons, Tile Icons, etc. What All Do You Need? | CSS-Tricks	](http://css-tricks.com/favicon-quiz/)
+
 [jonom/jquery-focuspoint · GitHub	](https://github.com/jonom/jquery-focuspoint)
+
 [Making SVGs Responsive with CSS | Codrops](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
-[Timesheet.js - Open time tables with HTML, JavaScript and CSS …	](http://semu.github.io/timesheet.js/_
+
+[Timesheet.js - Open time tables with HTML, JavaScript and CSS](http://semu.github.io/timesheet.js/)
+
 [CSS Guidelines (2.0.15) – High-level advice and guidelines for writing sane, manageable, scalable CSS	](http://cssguidelin.es/)
 
 
