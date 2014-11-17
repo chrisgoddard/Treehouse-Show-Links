@@ -5,6 +5,43 @@ Resource links from http://teamtreehouse.com/library/the-treehouse-show
 
 For my own reference. Will update as I am able. All work is the property of its owner. I have no association with the treehouse show... and I only scraped their site a little bit... promise :)
 
+##[Episode 115: Touch Events, Font Downloads, Native Webapps](http://teamtreehouse.com/library/the-treehouse-show/episode-115-touch-events-font-downloads-native-webapps)
+
+[HotStudio/touchy	](https://github.com/HotStudio/touchy)
+[Minimising font downloads - JakeArchibald.com	](http://jakearchibald.com/2014/minimising-font-downloads/)
+[touchSwipe	](http://labs.rampinteractive.co.uk/touchSwipe/demos/)
+[All You Need To Know About Vertical-Align - Christopher Aue	](http://christopheraue.net/2014/03/05/vertical-align/)
+[Web Components punch list | The Paciello Group – Your Accessibility Partner](http://www.paciellogroup.com/blog/2014/09/web-components-punch-list/)
+[iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps | Breaking the Mobile Web](http://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)
+
+
+##[Episode 114: Centering in CSS, Responsive Lightboxes, Dynamic Animations | The Treehouse Show | Treehouse](http://teamtreehouse.com/library/the-treehouse-show/episode-114-centering-in-css-responsive-lightboxes-dynamic-animations)
+
+[Centering in CSS: A Complete Guide | CSS-Tricks	](http://css-tricks.com/centering-css-complete-guide/)
+[TURNBOX.js - NOHT CO.,LTD.	](http://noht.co.jp/turnbox)
+[http://impulse.luster.io/	](http://impulse.luster.io/)
+[Strip - A Less Intrusive Responsive Lightbox	](http://www.stripjs.com/)
+[drawer | blivesta · drawer	](http://git.blivesta.com/drawer/)
+
+
+##[Episode 113: API Responses, Font Compression, Tab Styles](http://teamtreehouse.com/library/the-treehouse-show/episode-113-api-responses-font-compression-tab-styles)
+
+[DataCollection.js	](http://thestorefront.github.io/DataCollection.js/)
+[Dev.Opera — Native Responsive Images	])(http://dev.opera.com/articles/native-responsive-images/)
+[Speed Up Your Bootstrap and Font-Awesome Sites Using Font Compression | Zoompf Web Performance](http://zoompf.com/blog/2014/08/bootstrap-fonts)
+[Tab Styles Inspiration | Codrops	](http://tympanus.net/codrops/2014/09/02/tab-styles-inspiration/)
+[Advanced objects in JavaScript	](http://bjorn.tipling.com/advanced-objects-in-javascript)
+
+
+##[Episode 112: Icons, Responsive Images, Timesheets](http://teamtreehouse.com/library/the-treehouse-show/episode-112-icons-responsive-images-timesheets)
+
+[Favicons, Touch Icons, Tile Icons, etc. What All Do You Need? | CSS-Tricks	](http://css-tricks.com/favicon-quiz/)
+[jonom/jquery-focuspoint · GitHub	](https://github.com/jonom/jquery-focuspoint)
+[Making SVGs Responsive with CSS | Codrops](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
+[Timesheet.js - Open time tables with HTML, JavaScript and CSS …	](http://semu.github.io/timesheet.js/_
+[CSS Guidelines (2.0.15) – High-level advice and guidelines for writing sane, manageable, scalable CSS	](http://cssguidelin.es/)
+
+
 ## [Episode 111: DPI, Responsive Charts, Media Queries](http://teamtreehouse.com/library/the-treehouse-show/episode-111-dpi-responsive-charts-media-queries)
 
 [Designer's guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/home)
