@@ -5,6 +5,42 @@ Resource links from http://teamtreehouse.com/library/the-treehouse-show
 
 For my own reference. Will update as I am able. All work is the property of its owner. I have no association with the treehouse show... and I only scraped their site a little bit... promise :)
 
+##[Episode 118: Page Transitions, Designing for Thumbs, Concise](http://teamtreehouse.com/library/episode-118-page-transitions-designing-for-thumbs-concise)
+
+[Concise / Welcome](http://concisecss.com/)
+
+[How To Add Page Transitions with CSS and smoothState.js | CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/)
+
+[How to design for thumbs in the Era of Huge Screens - Scott Hurff](http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens)
+
+[Converse.js](https://conversejs.org/)
+
+[Pushy - Off-Canvas Navigation Menu](http://www.christopheryee.ca/pushy/)
+
+##[Episode 117: OS X Apps, Fixed Headers, Arrays](http://teamtreehouse.com/library/episode-117-os-x-apps-fixed-headers-arrays)
+
+[Building OS X Apps with JavaScript by Tyler Gaw](http://tylergaw.com/articles/building-osx-apps-with-js)
+
+[csstyle Clean, Simple Styling for the Web](http://www.csstyle.io/)
+
+[zzmp/juliusjs](https://github.com/zzmp/juliusjs)
+
+[Midnight.js - Switch fixed headers on the fly](http://aerolab.github.io/midnight.js/)
+
+[5 Array Methods That You Should Be Using Now | colintoh.com](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
+
+##[Episode 116: CSS Shapes, Responsive Images, AngularJS](http://teamtreehouse.com/library/episode-116-css-shapes-responsive-images-angularjs)
+
+[Getting Started with CSS Shapes: Wrapping content around custom paths - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/shapes/getting-started/)
+
+[SweetAlert](http://tristanedwards.me/sweetalert)
+
+[Animating Images With CSS Keyframes | Pencil Scoop | Web Design & Development](http://www.pencilscoop.com/2014/04/animating-images-with-css-keyframes/)
+
+[AngularJS Tutorial: a comprehensive 10,000 word guide](http://www.airpair.com/angularjs)
+
+[aFarkas/respimage](https://github.com/aFarkas/respimage)
+
 ##[Episode 115: Touch Events, Font Downloads, Native Webapps](http://teamtreehouse.com/library/the-treehouse-show/episode-115-touch-events-font-downloads-native-webapps)
 
 [HotStudio/touchy	](https://github.com/HotStudio/touchy)
